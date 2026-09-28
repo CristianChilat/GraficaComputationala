@@ -10,3 +10,9 @@ venv/
 
 # OS
 .DS_Store
+
+# Не для репозитория
+/lab1/docs/functions.md
+/lab2/docs/functions.md
+/lab2/tests/test_sierpinski.py
+/lab1/docs/superpowers/
